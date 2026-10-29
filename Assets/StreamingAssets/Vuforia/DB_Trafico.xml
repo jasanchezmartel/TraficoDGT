@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="desvio" size="1.000000 0.545455" />
+    <ImageTarget name="pueblo" size="1.000000 0.545455" />
+    <ImageTarget name="obligaciondireccion" size="1.000000 0.545455" />
+    <ImageTarget name="obrapeligrocurvas" size="1.000000 0.545455" />
+    <ImageTarget name="stop" size="1.000000 0.545455" />
+  </Tracking>
+</QCARConfig>

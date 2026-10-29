@@ -1,0 +1,15 @@
+newmtl frente
+Kd 1 1 1
+Ka 0.3 0.3 0.3
+Ks 0.1 0.1 0.1
+map_Kd sign_texture.png
+
+newmtl azul
+Kd 0.0 0.32 0.63
+Ka 0.1 0.1 0.1
+
+newmtl acero
+Kd 0.45 0.47 0.5
+Ka 0.1 0.1 0.1
+Ks 0.2 0.2 0.2
+Ns 30

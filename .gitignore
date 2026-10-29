@@ -107,3 +107,13 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Vuforia package tarball
+/[Pp]ackages/*.tgz
+/[Pp]ackages/com.ptc.vuforia.engine*
+
+# Plastic SCM and recovery files
+.plastic/
+*.private.*
+/[Aa]ssets/_Recovery/
+/QCAR/

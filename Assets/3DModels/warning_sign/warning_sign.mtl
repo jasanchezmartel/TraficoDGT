@@ -1,0 +1,18 @@
+newmtl senal
+Kd 1.0 1.0 1.0
+Ka 0.1 0.1 0.1
+Ks 0.1 0.1 0.1
+Ns 20
+map_Kd warning_sign_tex.png
+
+newmtl metal
+Kd 0.85 0.85 0.85
+Ka 0.1 0.1 0.1
+Ks 0.2 0.2 0.2
+Ns 30
+
+newmtl acero
+Kd 0.45 0.47 0.5
+Ka 0.1 0.1 0.1
+Ks 0.2 0.2 0.2
+Ns 30
